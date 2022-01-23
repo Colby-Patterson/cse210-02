@@ -23,6 +23,7 @@ class Game:
         self.score = 0
         self.total_score = 300
         self.old_card = 0
+        self.new_card = 0
         
         pass
 
